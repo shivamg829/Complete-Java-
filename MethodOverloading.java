@@ -1,3 +1,4 @@
+// Method overloadin is on compile time polymorphism where multiple methods have the same name but different parameters (number, type, or both). The compiler determines which method to call based on the arguments passed.
 class Calculator {
     // Method overloading: same method name, different parameters
     public int add(int a, int b) {
